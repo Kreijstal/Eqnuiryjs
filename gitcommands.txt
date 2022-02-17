@@ -1,0 +1,26 @@
+GIT CLONER FORK AND FORGET
+hopefully
+git clone ...
+git remote -v
+git remote rename origin upstream
+git remote add origin git@github.com:Kreijstal/Eqnuiryjs.git
+git checkout -b epicchange
+git commit -am "my beautiful change"
+forever commited so when it changes
+git fetch upstream
+git checkout epicchange
+git branch -D master
+git branch -D master-for-upstream 
+git checkout -b master-for-upstream upstream/HEAD
+git checkout epicchange
+git checkout -b master
+git rebase master-for-upstream
+git push -f origin master
+
+on other computer do
+git clone ... this fork
+git remote add upstream git@github.com:enquirer/enquirer.git
+
+change epicchange
+
+do the thing
