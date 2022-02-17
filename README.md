@@ -16,6 +16,7 @@
 <br>
 
 <p align="center">
+This is a fork I did because I didnt like this version XDDDDDD, forever mantain
   <b>Stylish CLI prompts that are user-friendly, intuitive and easy to create.</b><br>
   <sub>>_ Prompts should be more like conversations than inquisitions▌</sub>
 </p>
