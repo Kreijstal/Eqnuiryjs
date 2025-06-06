@@ -32,7 +32,7 @@
     "gulp-reflinks": "^0.2.0",
     "gulp-sass": "^3.1.0",
     "handlebars-helper-create-frame": "^0.1.0",
-    "handlebars-helpers": "^0.8.2",
+    "handlebars-helpers": "^0.10.0",
     "helper-geopattern": "^0.2.0",
     "helper-link-to": "^0.3.0",
     "helper-prompt": "^1.0.0",
