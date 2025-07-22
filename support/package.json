@@ -21,7 +21,7 @@
     "assemble-middleware-page-variable": "^0.1.0",
     "assemble-sitemaps": "^0.1.1",
     "camel-case": "^3.0.0",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "data-store": "^1.0.0",
     "delete": "^1.0.1",
     "export-files": "^3.0.0",
